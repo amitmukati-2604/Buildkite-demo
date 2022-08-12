@@ -2,8 +2,8 @@ steps:
   - commands:
     - "pwd"
     - "ls -la"
-    - "cd j/julia/"
+    - "cd script/"
     - "ls -la"
-    - "chmod +x julia_v1.7.2_ubi8.5.sh"
+    - "chmod +x demo.sh"
     - "echo '***** build start *******'"
-    - "./julia_v1.7.2_ubi8.5.sh"
+    - "./demo.sh"
