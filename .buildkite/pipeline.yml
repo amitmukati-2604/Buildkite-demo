@@ -5,5 +5,5 @@ steps:
     - "cd script/"
     - "ls -la"
     - "chmod +x demo.sh"
-    - "echo '***** build start *******'"
+    - "echo '***** build start for buildkite demo*******'"
     - "./demo.sh"
