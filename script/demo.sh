@@ -1,3 +1,3 @@
 echo "*************************************************"
-echo "WELCOME TO BUILDKITE DEMO"
+echo "WELCOME TO BUILDKITE"
 echo "*************************************************"
